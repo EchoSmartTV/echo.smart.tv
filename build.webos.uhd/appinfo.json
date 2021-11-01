@@ -1,0 +1,17 @@
+{
+	"id": "com.echo.app",
+	"version": "1.0.0",
+	"vendor": "Jhon Doe",
+	"type": "web",
+	"main": "index.html",
+	"title": "echo",
+	"bgColor": "#ffffff",
+	"bgImage": "preview.png",
+	"icon": "icon.png",
+	"largeIcon": "icon.png",
+	"resolution":"1920x1080",
+	"iconColor": "#ffffff",
+	"splashBackground": "splash.png",
+	"disableBackHistoryAPI":true,
+	"uiRevision":1
+}
